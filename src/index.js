@@ -9,7 +9,7 @@ class ShoppingList extends React.Component {
             <div className="shopping-list">
                 <h1>Shopping list for {this.props.name}</h1>
                 <ul>
-                    <li>Veggies Egg Tart</li>
+                    <li>Veggies Egg Tart SUPER HIGHT</li>
                     <li>Meats</li>
                     <li>Banana</li>
                 </ul>
