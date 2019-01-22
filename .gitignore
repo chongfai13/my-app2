@@ -1,0 +1,8 @@
+
+# SVN directories
+.svn
+
+# osx noise
+.DS_Store
+Thumbs.db
+node_modules
